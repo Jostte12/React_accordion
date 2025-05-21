@@ -1,5 +1,5 @@
 
-**Explanation and Customization Tips:** 
+**More info:** 
 
 *   **`React_accordion` and `[[accordion]](https://github.com/Jostte12/React_accordion/)`:**
 *   **Technologies Used:**  React + JS.
