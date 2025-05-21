@@ -1,0 +1,51 @@
+.wrapper {
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wrapper button {
+  margin: 10px;
+  padding: 10px 20px;
+  background: rgb(230, 231, 227);
+  border: 5px double rgb(211, 211, 211);
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.accordion {
+  width: 500px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.item {
+  margin: 10px;
+  padding: 10px 20px;
+  background: rgb(230, 231, 227);
+  border: 5px double rgb(211, 211, 211);
+  border-radius: 25px;
+}
+
+.title {
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.title span {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.content {
+  margin-bottom: 10px;
+}
